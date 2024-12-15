@@ -1,0 +1,51 @@
+STL = Standard Template Library
+
+Parts of STL
+
+   1. Containers {Pre implemented data structure}
+
+      * Sequential {Like array}
+         -Vector
+         -Stack
+         -Queue
+         -Pair (Actually not a container. Its like a class)
+    
+      * Ordered {Values are stored}
+         -Maps
+         -Multi maps
+         -Set
+         -Multi set
+
+      * Unordered
+         -Unordered map
+         -Unordered set
+
+    >> Nested containers {Container in a container} like,
+        - vector <vector <int>>
+        - map <int, vector <int>>
+        - set <pair <int>>
+        - functor <map <int>>
+
+    2. Iterators {Similar to pointer} //pointer used to contain address of a variable
+                                      //but iterator used to point the address of container
+        
+        - Point the memory address of container
+        - begin(), end()
+        - vector <int>::iterator it; //syntax
+        - Continuity and and discontinuity of iterator 
+      
+    3. Algorithms
+
+        - upper bound 
+        - lower bound
+        - sort (comparator)
+        - max_element
+        - min_element
+        - accumulate
+        - reverse
+        - count 
+        - find
+        - next_permutation 
+        - prev_permutation
+
+    4. Functor {classes which can act like functions}
