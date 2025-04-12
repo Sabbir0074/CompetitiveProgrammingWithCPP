@@ -3,11 +3,11 @@ That's a great decision! Learning algorithms is crucial for improving in competi
 ### **1. Searching Algorithms**
 - Binary Search  // done
 - Ternary Search  // done
-- Exponential Search
+- Exponential Search  // done
 
 ### **2. Sorting Algorithms**
-- QuickSort
-- MergeSort
+- QuickSort  // done
+- MergeSort  // done
 - HeapSort
 - Counting Sort
 - Radix Sort
