@@ -1,0 +1,159 @@
+That's a great decision! Learning algorithms is crucial for improving in competitive programming (CP). Here’s a list of important algorithms commonly used in CP problems:
+
+### **1. Searching Algorithms**
+- Binary Search  // done
+- Ternary Search  // done
+- Exponential Search  // done
+
+### **2. Sorting Algorithms**
+- QuickSort  // done
+- MergeSort  // done
+- HeapSort   //
+- Counting Sort
+- Radix Sort
+- Bucket Sort
+
+### **3. Number Theory**
+- Sieve of Eratosthenes (for prime numbers)
+- Euclidean Algorithm (GCD)
+- Extended Euclidean Algorithm
+- Modular Arithmetic (Modular Inverse, Fast Exponentiation)
+- Chinese Remainder Theorem
+- Fermat’s Theorem and Euler’s Totient Function
+
+### **4. Greedy Algorithms**
+- Activity Selection Problem
+- Huffman Encoding
+- Kruskal’s Algorithm (for Minimum Spanning Tree)
+- Prim’s Algorithm (for Minimum Spanning Tree)
+- Dijkstra’s Algorithm (for Shortest Path)
+
+### **5. Dynamic Programming (DP)**
+- Fibonacci Sequence (Bottom-Up and Top-Down)
+- 0/1 Knapsack Problem
+- Unbounded Knapsack
+- Longest Common Subsequence (LCS)
+- Longest Increasing Subsequence (LIS)
+- Matrix Chain Multiplication
+- Edit Distance
+- Subset Sum Problem
+- Coin Change Problem
+- DP on Trees
+- DP on Graphs
+
+### **6. Graph Algorithms**
+- Breadth-First Search (BFS)
+- Depth-First Search (DFS)
+- Topological Sorting (Kahn’s Algorithm, DFS)
+- Dijkstra’s Algorithm (Shortest Path)
+- Bellman-Ford Algorithm
+- Floyd-Warshall Algorithm
+- Strongly Connected Components (Tarjan’s and Kosaraju’s Algorithm)
+- Bipartite Graph Check (BFS/DFS)
+- Bridges and Articulation Points (Tarjan’s Algorithm)
+
+### **7. String Algorithms**
+- KMP (Knuth-Morris-Pratt) Algorithm
+- Rabin-Karp Algorithm
+- Z Algorithm
+- Aho-Corasick Algorithm (for multiple pattern matching)
+- Suffix Array
+- Suffix Tree
+- Trie Data Structure
+
+### **8. Tree Algorithms**
+- Lowest Common Ancestor (LCA)
+- Binary Indexed Tree (Fenwick Tree)
+- Segment Tree
+- Heavy-Light Decomposition
+- Persistent Segment Tree
+
+### **9. Bit Manipulation**
+- Checking if a number is a power of 2
+- Counting set bits (Brian Kernighan’s Algorithm)
+- XOR properties and tricks
+- Bitmask DP
+
+### **10. Computational Geometry**
+- Convex Hull (Graham’s Scan, Jarvis March)
+- Line Intersection
+- Closest Pair of Points
+- Rotating Calipers
+
+### **11. Advanced Topics**
+- Mo’s Algorithm (for answering range queries efficiently)
+- Disjoint Set Union (DSU) / Union-Find (with path compression)
+- Square Root Decomposition
+- Euler Tour Technique
+- Heavy-Light Decomposition
+
+If you focus on these algorithms and practice problems related to them, your CP rating will improve significantly. Start with sorting and searching, then move on to graph and DP problems.
+
+Would you like a structured roadmap or resources to study these algorithms?
+
+
+Absolutely! Here's a solid list of **Data Structures** you should learn for **Competitive Programming (CP)** — organized in levels from **basic to advanced**.
+
+---
+
+## 🟢 **Basic (Must-Know for Beginners)**
+
+| Data Structure         | Why It’s Useful                              |
+|------------------------|----------------------------------------------|
+| **Array**              | Fast access, simple problems                 |
+| **String**             | Text manipulation, pattern matching          |
+| **Stack**              | Balanced parentheses, undo operations        |
+| **Queue**              | BFS, simulation problems                     |
+| **Deque**              | Sliding window, optimization problems        |
+| **Linked List**        | Insertion/deletion operations                |
+| **Hash Map / Hash Set**| Fast lookup, frequency count, memoization    |
+
+---
+
+## 🟡 **Intermediate (Core CP Skills)**
+
+| Data Structure         | Why It’s Useful                              |
+|------------------------|----------------------------------------------|
+| **Binary Tree**        | Tree traversal problems                      |
+| **Heap / Priority Queue** | Dijkstra, Greedy problems               |
+| **Trie**               | String dictionaries, autocomplete, prefix matching |
+| **Disjoint Set (DSU/Union-Find)** | Kruskal's algorithm, cycle detection |
+| **Graph (Adj List/Matrix)** | All graph problems                    |
+| **Matrix**             | Grid-based problems, DP                     |
+
+---
+
+## 🔵 **Advanced (For 1500+ Rating and Beyond)**
+
+| Data Structure             | Why It’s Useful                                 |
+|----------------------------|--------------------------------------------------|
+| **Segment Tree**           | Range queries and updates (min/max/sum)         |
+| **Fenwick Tree (BIT)**     | Efficient prefix sums                           |
+| **Sparse Table**           | Static RMQ problems                             |
+| **Ordered Set/Map (C++ PBDS)** | Range order statistics, lower_bound etc |
+| **Treap / AVL / Red-Black Tree** | Balanced BSTs with advanced operations |
+| **Suffix Array / Suffix Tree** | Advanced string algorithms                 |
+| **LCA (Lowest Common Ancestor)** | Tree queries                             |
+| **Heavy-Light Decomposition** | For path queries on trees                   |
+
+---
+
+## 🧠 Bonus Concepts (Also Important)
+
+| Concept              | Why It Helps                                      |
+|----------------------|---------------------------------------------------|
+| **Sliding Window**   | Optimize time complexity in subarray problems     |
+| **Two Pointers**     | Efficient linear solutions                        |
+| **Binary Search on Answer** | For optimization problems                  |
+| **Prefix Sum / Difference Array** | For range sum/update problems      |
+| **Bitmasking**       | DP on subsets, optimization in constraints        |
+
+---
+
+## ⚡ Recommendation for Practice
+
+1. Learn the **basic structures first**.
+2. Pick problems from platforms like **Codeforces**, **AtCoder**, **LeetCode**, or **CSES**.
+3. Once you're confident, move on to **trees, graphs, and segment trees**.
+
+Would you like me to suggest a **learning path** or **practice problems for each data structure**?
