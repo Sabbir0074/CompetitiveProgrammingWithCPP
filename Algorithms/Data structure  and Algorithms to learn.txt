@@ -100,8 +100,8 @@ Absolutely! Here's a solid list of **Data Structures** you should learn for **Co
 
 | Data Structure         | Why It’s Useful                              |
 |------------------------|----------------------------------------------|
-| **Array**              | Fast access, simple problems                 |
-| **String**             | Text manipulation, pattern matching          |
+| **Array**              | Fast access, simple problems                 |  Done
+| **String**             | Text manipulation, pattern matching          |  Done
 | **Stack**              | Balanced parentheses, undo operations        |
 | **Queue**              | BFS, simulation problems                     |
 | **Deque**              | Sliding window, optimization problems        |
